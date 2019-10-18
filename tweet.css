@@ -1,0 +1,162 @@
+img.perfil{
+    border-radius: 50%;
+    height: 43px;
+    width: 43px;
+    margin-left: 12px;
+}
+.arroba{
+    color: #6E767D;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 17.33px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 13px;
+}
+.textoretweet{
+    color: #6E767D;
+    font-family: Verdana, sans-serif;
+    font-size: 11px;
+    margin-bottom: -5px;
+    margin-left: 10px;
+   
+    
+}
+.linha{
+    display: flex;
+    flex-direction: row;
+}
+.nome{
+    
+    font-family: Verdana, sans-serif;
+    font-size: 13px;
+    height: 17.33px;
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-top: 0px;
+    color: #D9D9D9;
+
+}
+
+.corpo{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+.nomeearroba{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 0px;
+    
+}
+.texto{
+    margin-top: -10px;
+    margin-left: 10px;
+    color: #D9D9D9;
+    font-family: Verdana, sans-serif;
+    font-size: 13px;
+    width: 100%;
+
+}
+.imagem{
+    display: flex;
+    flex-direction: row;
+    margin-top: 21,5px;
+}
+.linharetweet{
+    margin-bottom: 1px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 12px;
+
+}
+img.foto{
+    margin-left: 10px;
+    border-radius: 15px;
+    width: 98%;
+   
+}
+
+body{
+}
+
+.marcacao{
+    font-family: Verdana, sans-serif;
+    color:#1B95E0;
+
+}
+
+.corpodotexto{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.icone {
+    fill: #6E767D;
+}
+
+.iconeretweet{
+    margin-top: 13px;
+    width: 43px;
+    display: flex;
+    
+    justify-content:flex-end;
+}
+
+.ultimalinha{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+    margin-top: 10px;
+    justify-content: space-between;
+    
+
+}
+.iconesultimalinha{
+    fill: #6E767D;
+    margin-right: 10%;
+    margin-bottom: 10px;
+
+
+}
+.seta{
+    fill: #6E767D;
+}
+
+.linhadonome{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 0px;
+    justify-content: space-between ;
+    margin-right: 0px;
+}
+.icone1 {
+    color: #6E767D;
+    display: flex;
+    flex-direction: row;
+    font-family: Verdana, sans-serif;
+    font-size: 13px;
+}
+.icone2 {
+    color: #6E767D;
+    display: flex;
+    flex-direction: row;
+    font-family: Verdana, sans-serif;
+    font-size: 13px;
+}
+.icone3 {
+    color: #6E767D;
+    display: flex;
+    flex-direction: row;
+    font-family: Verdana, sans-serif;
+    font-size: 13px;
+}
+.icone4 {
+    display: flex;
+    flex-direction: row;
+}
+.borda{
+    width: 100%;
+    background-color: #000000;
+    
+}
